@@ -1,0 +1,28 @@
+_repo: Handel_9089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dent, Edward J. (Edward Joseph)
+    alias: Dent, E. J. (Edward Joseph)
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '2971'
+    url: http://www.gutenberg.org/2009/agents/2971
+description: Cover; Front matter; Title page; Copyright page; Body matter; Chronology;
+  Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
+  Bibliography;
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Handel, George Frideric, 1685-1759'
+- !lcsh 'Composers -- Biography'
+- !lcc 'ML'
+- GITenberg
+title: Handel
+url: http://www.gutenberg.org/ebooks/9089
